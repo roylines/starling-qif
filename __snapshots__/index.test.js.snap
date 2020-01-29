@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`toQIF should create qif 1`] = `
+"!Type:Bank
+D2020/01/28
+T-45.00
+PR Grimes
+MNew Hat
+^
+D2020/01/27
+T118.00
+PNegan
+Mwww.negan.com\\\\GREATER LONDON HOUSE\\\\NW1 7FB GBR
+^
+D2020/01/27
+T-39.99
+PSanctuary Marketplace
+MSCTYMktplace sanctuary.co.uk GBR
+^
+"
+`;

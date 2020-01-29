@@ -1,6 +1,6 @@
 {
   "name": "starling-qif",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "converter between starling transaction format and qif",
   "main": "index.js",
   "scripts": {
@@ -10,10 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/roylines/starling-qif.git"
   },
-  "keywords": [
-    "starling",
-    "qif"
-  ],
+  "keywords": ["starling", "qif"],
   "author": "Roy Lines",
   "license": "MIT",
   "bugs": {

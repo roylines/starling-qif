@@ -1,0 +1,23 @@
+[
+  {
+    "amount": {"currency": "GBP", "minorUnits": 4500},
+    "direction": "OUT",
+    "transactionTime": "2020-01-28T08:09:06.459Z",
+    "counterPartyName": "R Grimes",
+    "reference": "New Hat"
+  },
+  {
+    "amount": {"currency": "GBP", "minorUnits": 11800},
+    "direction": "IN",
+    "transactionTime": "2020-01-27T18:20:57.503Z",
+    "counterPartyName": "Negan",
+    "reference": "www.negan.com\\GREATER LONDON HOUSE\\NW1 7FB      GBR"
+  },
+  {
+    "amount": {"currency": "GBP", "minorUnits": 3999},
+    "direction": "OUT",
+    "transactionTime": "2020-01-27T14:39:56.228Z",
+    "counterPartyName": "Sanctuary Marketplace",
+    "reference": "SCTYMktplace           sanctuary.co.uk  GBR"
+  }
+]
